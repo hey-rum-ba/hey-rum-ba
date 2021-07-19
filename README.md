@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @hey-rum-ba
-- 👀 I’m interested in Android and Web developmant
-- 🌱 I’m currently learning Deep Learning and Computer vision
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me herambapanda2000@gmail.com
+ ## 👋 Hello There, I’m Hey-Rum-Ba.
+- 👀 I’m interested in Android , Web developmant and Photography.
+- 🌱 I’m currently learning everything :)
+- 💞️ I’m looking to collaborate on development.
 
-<!---
-hey-rum-ba/hey-rum-ba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ### 📫 Connect with me:
+
+- [<img align="left" alt="Mypicgallery.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://mypicgallery-hey-rum-ba.herokuapp.com/]
+- [<img align="left" alt="hey-rum-ba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- [<img align="left" alt="hey-rum-ba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="hey-rum-ba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-rum-ba)](https://github.com/hey-rum-ba/github-readme-stats)
+
+
+
