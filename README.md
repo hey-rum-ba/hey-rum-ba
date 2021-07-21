@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android , Web developmant and Photography.
 - 🌱 I’m currently learning everything :)
 - 💞️ I’m looking to collaborate on development.
-
+- 👀 I also solve Hakerrank Problems.
 
 
 
