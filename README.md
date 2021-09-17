@@ -1,4 +1,4 @@
-  <img src="https://github-hero-readme.vercel.app/api?username=Hey-rum-ba&linkedin=Heramba Panda&twitter=SiddhartPanda20&description=Open Source | Web Developer | Android  Developer" width="100%">
+  <img src="https://github-hero-readme.vercel.app/api?username=Hey-rum-ba&linkedin=Heramba Panda&twitter=SiddhartPanda20&description=Open Source Enthusiast | Web Developer | Android  Developer" width="100%">
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
